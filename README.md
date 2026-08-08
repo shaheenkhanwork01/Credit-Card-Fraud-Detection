@@ -47,11 +47,9 @@ Random Forest gave a better balance between **precision, recall and F1-score**, 
 
 ### Random Forest Confusion Matrix
 
-![Random Forest Confusion Matrix](images/confusion_matrix_rf.png)
 
 ### Logistic Regression Confusion Matrix
 
-![Logistic Regression Confusion Matrix](images/confusion_matrix_lr.png)
 
 ### Model Comparison
 

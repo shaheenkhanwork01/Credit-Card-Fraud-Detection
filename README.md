@@ -57,7 +57,7 @@ Random Forest gave a better balance between **precision, recall and F1-score**, 
 
 ## 📓 Project Notebook
 
-[Open the Jupyter Notebook](Credit_Card_Fraud_Detection.ipynb
+[Open the Jupyter Notebook](Credit_Card_Fraud_Detection.ipynb)
 
 
 ## ⚠️ Limitations
